@@ -18,3 +18,7 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+## 参考
+
+https://aws.amazon.com/jp/blogs/mobile/ssr-support-for-aws-amplify-javascript-libraries/
